@@ -1,4 +1,4 @@
-const createInterval = require(".").createInterval;
+const createInterval = require("./fake").createInterval;
 // const jest = require("jest");
 
 describe("problem with 0 delay intervals", () => {
